@@ -1,11 +1,11 @@
-const logotext = "JOHN";
+const logotext = "SIMRAN";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Simranpreet Singh",
+    description: "I’m Simranpreet Singh _ Full stack devloper,currently studying Apeejay Institute of Management & Engineering Technical Campus | AIMETC  ",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Simranpreet Singh",
     animated: {
         first: "I love coding",
         second: "I code cool websites",
@@ -136,8 +136,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "simran.ahuja0010@gmail.com",
+    YOUR_FONE: "9464332909",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
+    github: "https://github.com/Simransingh010",
     facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    linkedin: "https://www.linkedin.com/in/simranpreet-singh-804296270/",
     twitter: "https://twitter.com",
 };
 export {
